@@ -36,6 +36,14 @@ Repositorio: [github.com/CarlosFuentes32/asesorias-empresariales](https://github
 - Metadatos SEO y Open Graph
 - Buenas prácticas de accesibilidad
 
+## Últimas modificaciones
+
+- Se actualizó el tamaño del logo.
+- Se mejoró el header corporativo.
+- Se corrigió el logo en hero y footer.
+- Se ajustó la versión responsive.
+- Se revisaron rutas y compatibilidad con GitHub Pages.
+
 ## Ejecutar localmente
 
 ### Con Live Server
